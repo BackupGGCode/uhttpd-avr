@@ -46,12 +46,12 @@ EEPROM:       19 bytes (1.9% Full)
 
 Project on a solderless breadboard, Note: JTAG header and USB-Serial is only needed for debugging:
 
-![http://uhttpd-avr.googlecode.com/svn/trunk/docs/overview.jpeg](http://uhttpd-avr.googlecode.com/svn/trunk/docs/overview.jpeg)
+![https://raw.githubusercontent.com/BackupGGCode/uhttpd-avr/master/docs/overview.jpeg](https://raw.githubusercontent.com/BackupGGCode/uhttpd-avr/master/docs/overview.jpeg)
 
 ## Screenshots: ##
 
-![http://uhttpd-avr.googlecode.com/svn/trunk/docs/screenshot_01.png](http://uhttpd-avr.googlecode.com/svn/trunk/docs/screenshot_01.png)
+![https://raw.githubusercontent.com/BackupGGCode/uhttpd-avr/master/docs/screenshot_01.png](https://raw.githubusercontent.com/BackupGGCode/uhttpd-avr/master/docs/screenshot_01.png)
 
 Network configuration:
 
-![http://uhttpd-avr.googlecode.com/svn/trunk/docs/screenshot_02.png](http://uhttpd-avr.googlecode.com/svn/trunk/docs/screenshot_02.png)
+![https://raw.githubusercontent.com/BackupGGCode/uhttpd-avr/master/docs/screenshot_02.png](https://raw.githubusercontent.com/BackupGGCode/uhttpd-avr/master/docs/screenshot_02.png)
